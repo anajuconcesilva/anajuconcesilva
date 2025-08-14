@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 💻 Ana Júlia Conceição
 
 **`Técnica em Informática e Graduanda em engenharia de Software`**
 
