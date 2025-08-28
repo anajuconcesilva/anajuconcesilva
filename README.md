@@ -7,6 +7,25 @@ Conclui o ensino médio integrado ao técnico de informática no Senac Campinas.
 Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que me tornem uma profissional melhor. 
 
 
+<p align="left">
+    <a href="mailto:anajuliaconcesilva@email.com">
+        <img 
+            alt="Email" 
+            title="Me envie um email" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="www.linkedin.com/in/ana-conceicao-silva2007">
+        <img 
+            alt="LinkedIn" 
+            title="Visite meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
 ### Linguagens e Tecnologias
 
 <img 
@@ -83,6 +102,29 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+
+<br/>
+<br/>
+
+### Estatísticas 
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anajuconcesilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuconcesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
           
 
 
