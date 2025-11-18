@@ -112,14 +112,6 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git Hub" 
-    title="Git Hub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
-/>
 <br/>
 <br/>
 
