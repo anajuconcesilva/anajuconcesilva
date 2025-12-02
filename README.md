@@ -1,6 +1,6 @@
 # 💻 Ana Júlia Conceição
 
-**`Técnica em Informática e Graduanda em engenharia de Software`**
+**`Técnica em Informática, Graduanda em engenharia de Software e Analista de Dados Jr`**
 
 Me chamo Ana Júlia, tenho 18 anos e sou residente em Campinas-SP.
 Conclui o ensino médio integrado ao técnico de informática no Senac Campinas. Atualmente, estou cursando Engenharia de Software na PUC Campinas.
@@ -113,7 +113,7 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black"
 />
 <img 
     align="left" 
