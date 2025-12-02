@@ -123,26 +123,21 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anajuconcesilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=anajuconcesilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
     align="left" 
     alt="GitHub Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuconcesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuconcesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
   <img
-  align="left"
-  alt="GitHub Streak"
-  height="200"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=anajuconcesilva&theme=tokyonight&locale=pt_br"
-/>
+    align="left"
+    alt="GitHub Streak"
+    height="200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=anajuconcesilva&theme=tokyonight&locale=pt_br"
+  />
 </p>
-
-
-
-          
-
-
