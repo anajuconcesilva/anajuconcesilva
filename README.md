@@ -132,6 +132,13 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuconcesilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  <img
+  align="left"
+  alt="GitHub Streak"
+  height="200"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=anajuconcesilva&theme=tokyonight&locale=pt_br"
+/>
 </p>
 
 
