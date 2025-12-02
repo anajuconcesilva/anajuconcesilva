@@ -6,7 +6,6 @@ Me chamo Ana Júlia, tenho 18 anos e sou residente em Campinas-SP.
 Conclui o ensino médio integrado ao técnico de informática no Senac Campinas. Atualmente, estou cursando Engenharia de Software na PUC Campinas.
 Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que me tornem uma profissional melhor. 
 
-
 <p align="left">
     <a href="mailto:anajuliaconcesilva@email.com">
         <img 
@@ -52,7 +51,22 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img 
     align="left" 
     alt="Python" 
@@ -61,7 +75,6 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="C" 
@@ -72,11 +85,43 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
 />
 <img 
     align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img 
     align="left" 
@@ -101,15 +146,6 @@ Sou apaixonada por tecnologia e inovação, sempre buscando novos desafios que m
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git Hub" 
-    title="Git Hub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <br/>
