@@ -1,6 +1,6 @@
 # 💻 Ana Júlia Conceição
 
-**`Técnica em Informática e Graduanda em engenharia de Software`**
+**`Técnica em Informática e Graduanda em Engenharia de Software`**
 
 Me chamo Ana Júlia, tenho 18 anos e sou residente em Campinas-SP.
 Conclui o ensino médio integrado ao técnico de informática no Senac Campinas. Atualmente, estou cursando Engenharia de Software na PUC Campinas.
