@@ -4,7 +4,12 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=750&lines=Estagiária+na+área+de+Dados;Graduanda+em+Engenharia+de+Software;Transformando+dados+em+insights;Transformando+ideias+em+código" alt="Typing SVG">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=600&lines=Estagi%C3%A1ria+em+Dados;Graduanda+em+Engenharia+de+Software;Desenvolvedora+em+forma;Transformando+dados+em+insights"
+    alt="Typing SVG"
+  />
+</p>
 
 <br><br>
 
