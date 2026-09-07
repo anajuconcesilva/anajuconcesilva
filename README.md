@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B0000,50:C00000,100:FF1744&height=220&section=header&text=Ana%20Júlia%20Conceição&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Data%20%7C%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="./assets/banner.png" width="100%" alt="Ana Júlia Conceição">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+a+Ana+Júlia+%F0%9F%91%8B;Estagiária+na+área+de+Dados+%F0%9F%93%8A;Graduanda+em+Engenharia+de+Software+%F0%9F%8E%93;Transformando+dados+em+insights+%F0%9F%94%A5;Transformando+ideias+em+código+%F0%9F%92%BB" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=750&lines=Estagiária+na+área+de+Dados;Graduanda+em+Engenharia+de+Software;Transformando+dados+em+insights;Transformando+ideias+em+código" alt="Typing SVG">
+
+</div>
 
 <br><br>
 
@@ -173,7 +175,7 @@ Projeto desenvolvido durante a graduação em Engenharia de Software, envolvendo
 
 `Flutter` `Dart` `Node.js` `TypeScript` `Firebase` `Firestore`
 
-<a href="https://github.com/ES-PI3-2026-T2-G08">
+<a href="https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08.git">
 <img src="https://img.shields.io/badge/VER%20PROJETO-C00000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -296,16 +298,6 @@ Senac Campinas · 2023
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## ⚡ `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anajuconcesilva&bg_color=0D0D0D&color=FFFFFF&line=FF1744&point=C00000&area=true&hide_border=true" width="95%"/>
 
 </div>
 
