@@ -295,17 +295,8 @@ Senac Campinas · 2023
 
 ---
 
-## 🐍 `> contributions`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📬 `> let's_connect`
+## `> let's_connect`
 
 <div align="center">
 
