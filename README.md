@@ -4,9 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=750&lines=Estagiária+na+área+de+Dados;Graduanda+em+Engenharia+de+Software;Transformando+dados+em+insights;Transformando+ideias+em+código" alt="Typing SVG">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=750&lines=Estagiária+na+área+de+Dados;Graduanda+em+Engenharia+de+Software;Transformando+dados+em+insights;Transformando+ideias+em+código" alt="Typing SVG">
 
 <br><br>
 
@@ -58,7 +56,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 
 <td width="50%" valign="top">
 
-### 📊 Data
+### 📊 Data & Analytics
 
 ```text
 ▸ Power BI
@@ -117,7 +115,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Programming
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
@@ -175,7 +173,9 @@ Projeto desenvolvido durante a graduação em Engenharia de Software, envolvendo
 
 `Flutter` `Dart` `Node.js` `TypeScript` `Firebase` `Firestore`
 
-<a href="https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08.git">
+<br>
+
+<a href="https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08">
 <img src="https://img.shields.io/badge/VER%20PROJETO-C00000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -255,6 +255,7 @@ Senac Campinas · 2023
 │  📊 Data Analytics                          │
 │  ├── Power BI                               │
 │  ├── Python                                 │
+│  ├── DAX                                    │
 │  └── Data Visualization                     │
 │                                             │
 │  💻 Software Engineering                    │
