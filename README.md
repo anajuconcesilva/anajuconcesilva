@@ -253,33 +253,6 @@ Senac Campinas · 2023
 
 ---
 
-## `> currently_learning`
-
-```text
-╭─────────────────────────────────────────────╮
-│                                             │
-│  📊 Data Analytics                          │
-│  ├── Power BI                               │
-│  ├── Python                                 │
-│  ├── DAX                                    │
-│  └── Data Visualization                     │
-│                                             │
-│  💻 Software Engineering                    │
-│  ├── Software Architecture                  │
-│  ├── Algorithms & Data Structures            │
-│  └── Backend Development                    │
-│                                             │
-│  📱 Mobile Development                      │
-│  ├── Flutter                                │
-│  └── Dart                                   │
-│                                             │
-╰─────────────────────────────────────────────╯
-```
-
-> *Aprendendo continuamente para transformar conhecimento em soluções.*
-
----
-
 ## `> github_stats`
 
 
