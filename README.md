@@ -26,17 +26,17 @@
 
 ---
 
-## 🩸 `> whoami`
+## `> whoami`
 
 ```bash
 ┌──(ana㉿github)-[~/profile]
 └─$ cat about_me.txt
 
-👩‍💻 Nome        : Ana Júlia Conceição
-📍 Localização : Campinas, São Paulo - Brasil
-🎓 Formação    : Engenharia de Software
-💼 Atuação     : Estagiária na área de Dados
-💻 Perfil      : Developer & Data Enthusiast
+ Nome        : Ana Júlia Conceição
+ Localização : Campinas, São Paulo - Brasil
+ Formação    : Engenharia de Software
+ Atuação     : Estagiária na área de Dados
+ Perfil      : Developer & Data Enthusiast
 ```
 
 Sou **Técnica em Informática** e atualmente **graduanda em Engenharia de Software na PUC-Campinas**.
@@ -45,11 +45,11 @@ Atuo como **estagiária na área de Dados**, trabalhando com tecnologias voltada
 
 Ao mesmo tempo, venho construindo minha experiência em **desenvolvimento de software**, explorando aplicações web, mobile, bancos de dados, APIs e tecnologias em nuvem.
 
-Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em soluções, dados em informações e ideias em código**. 🚀
+Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em soluções, dados em informações e ideias em código**.
 
 ---
 
-## 🔥 `> what_i_do`
+## `> what_i_do`
 
 <table>
 <tr>
@@ -91,9 +91,9 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 
 ---
 
-## 💻 `> tech_stack`
+## `> tech_stack`
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-B71C1C?style=for-the-badge&logo=powerbi&logoColor=white"/>
@@ -103,7 +103,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
@@ -115,7 +115,8 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
 
-### ⚙️ Backend & Programming
+
+### Backend & Programming
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
@@ -129,7 +130,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" title="C#"/>
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
@@ -137,7 +138,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="45" title="Dart"/>
 </p>
 
-### ☁️ Cloud & Databases
+### Cloud & Databases
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="45" title="Firebase"/>
@@ -147,7 +148,7 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/>
 </p>
 
-### 🛠️ Development Tools
+### Development Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
@@ -161,9 +162,9 @@ Sou apaixonada por tecnologia e inovação e gosto de transformar **problemas em
 
 ---
 
-## 🚀 `> featured_projects`
+## `> featured_projects`
 
-### 💰 MesclaInvest
+###  MesclaInvest
 
 **Plataforma mobile de simulação de investimentos em startups.**
 
@@ -181,7 +182,7 @@ Projeto desenvolvido durante a graduação em Engenharia de Software, envolvendo
 
 ---
 
-### 📊 Data & BI
+### Data & BI
 
 Projetos acadêmicos e profissionais envolvendo **tratamento, análise e visualização de dados**, criação de indicadores e construção de dashboards.
 
@@ -191,7 +192,7 @@ Projetos acadêmicos e profissionais envolvendo **tratamento, análise e visuali
 
 ---
 
-### 🌐 Web Projects
+### Web Projects
 
 Projetos desenvolvidos para praticar criação de interfaces, lógica de programação e desenvolvimento de aplicações web.
 
@@ -201,7 +202,7 @@ Projetos desenvolvidos para praticar criação de interfaces, lógica de program
 
 ---
 
-## 🎓 `> education`
+## `> education`
 
 <table>
 <tr>
@@ -247,7 +248,7 @@ Senac Campinas · 2023
 
 ---
 
-## 🧠 `> currently_learning`
+## `> currently_learning`
 
 ```text
 ╭─────────────────────────────────────────────╮
@@ -270,17 +271,12 @@ Senac Campinas · 2023
 ╰─────────────────────────────────────────────╯
 ```
 
-> 🚀 *Aprendendo continuamente para transformar conhecimento em soluções.*
+> *Aprendendo continuamente para transformar conhecimento em soluções.*
 
 ---
 
-## 📈 `> github_stats`
+## `> github_stats`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajuconcesilva&show_icons=true&count_private=true&hide_border=true&title_color=FF1744&icon_color=C00000&text_color=FFFFFF&bg_color=0D0D0D"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajuconcesilva&layout=compact&hide_border=true&title_color=FF1744&text_color=FFFFFF&bg_color=0D0D0D"/>
 
 </div>
 
